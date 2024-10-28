@@ -1,0 +1,6 @@
+[submodule "yapp-client"]
+	path = yapp-client
+	url = https://github.com/aykutmehmetd/yapp-client
+[submodule "yapp-server"]
+	path = yapp-server
+	url = https://github.com/aykutmehmetd/yapp-server
